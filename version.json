@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "obligatoria": false,
+  "version": "1.0.0",
+  "obligatoria": true,
   "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "mensaje": "Prueba del actualizador"
+  "mensaje": ""
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "obligatoria": true,
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "mensaje": ""
+    "version":  "1.0.1",
+    "obligatoria":  false,
+    "sha256":  "6e7f3e9e5a86f64de52fc95b161d5ce0cfaf5616f8878d34ce89ffeaf19a6991",
+    "mensaje":  "Prueba actu"
 }
